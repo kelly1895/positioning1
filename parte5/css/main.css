@@ -1,0 +1,42 @@
+
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.box1, .box2, .box3, .box4{
+  
+    height: 200px;
+    width: 200px;
+    position: absolute;
+
+}
+
+.box1{
+     background: #ee3e64;
+   left: 0px;
+    top: 0px;
+    
+    
+    
+}
+
+.box2{
+    background: #44accf;
+    right: 0px;
+    top: 0px;
+}
+
+.box3{
+    background:#b7d84b;
+    left: 0px;
+    bottom: 0px;
+    
+}
+.box4{
+    background: yellow;
+    right: 0px;
+    bottom:0px;
+    
+}
